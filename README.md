@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=VarnaKottilingel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VarnaKottilingel&icon=9&color=12)](https://visitcount.itsvg.in)
